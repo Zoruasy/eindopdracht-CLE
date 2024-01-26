@@ -179,12 +179,12 @@ footer{
 .logo{
     max-width: 6rem;
 }
-.afbeelding{
+.Images{
     min-width: 20vw;
     max-height: 20vw;
     object-fit:cover;
 }
-.kleineAfbeelding{
+.kleineImages{
     min-width: 6vw;
     max-height: 6vw;
     object-fit:cover;
@@ -194,7 +194,7 @@ footer{
     max-height: 1.3rem;
     margin-right: 1rem;
 }
-.Afbeelding-reserveringsicoonGeel{
+.Images-reserveringsicoonGeel{
     min-width: 10vw;
     max-height: 10vw;
     object-fit:cover;
